@@ -38,6 +38,29 @@ IT Infrastructure Lead & Systems Administrator focused on building, optimizing, 
 - Performed hardware workshop tasks including soldering, assembly, and disassembly of devices.
 - Advised customers on technical sales and IT product acquisition.
 
+### Non IT Jobs
+**Several** | *Baleares, Spain* | Jul 2015 – Sept 2021
+
+- **HOTEL PEYMAR SA — Hotel Receptionist** (*May 2019 – Oct 2019*)
+  - Managed guest experience, check-in/out workflows, and PMS software operations for high-volume international tourism during peak season.
+  - Drove upselling of hotel services and resolved guest complaints promptly to maintain high service standards.
+
+- **Rafa Nadal Sports Centre — Night Receptionist** (*Apr 2018 – Nov 2018*)
+  - Delivered high-touch VIP concierge service for elite athletes, public figures, and HNWI guests with strict confidentiality and discretion.
+  - Autonomously managed night-shift operations, facility security, access control, and critical incident resolution without direct supervision.
+  - Handled daily multilingual guest interactions (Spanish, English, German) and PMS night-audit procedures.
+
+- **Media Markt — Tech & B2B Sales Specialist** (*Apr 2017 – Aug 2017*)
+  - Managed consultative technical sales for both B2C retail consumers and B2B corporate clients, analyzing business requirements to deliver tailored hardware, networking, and software procurement solutions.
+  - Translated complex technical specifications (PC architectures, server specs, component cross-compatibility) into clear guidance for corporate buyers and end users.
+  - Handled first-line post-sales support, technical triage for returned devices, RMA processing, and warranty lifecycle management.
+
+- **CeX Webuy.com — Hardware Evaluation & Sales Specialist** (*Jun 2016 – Feb 2017*)
+  - Conducted comprehensive hardware diagnostic testing, component integrity checks, and stress-tests on pre-owned IT infrastructure, custom PC builds, mobile devices, and gaming hardware.
+  - Executed technical trade-in valuations and market-aligned asset appraisals based on component architecture, physical wear, and operational feasibility.
+  - Managed real-time inventory cataloging, serial-number tracking, and stock integrity using internal ERP database systems.
+  - Provided high-volume technical consultation, advising clients on component upgrades, hardware compatibility, and system optimization.
+
 ---
 
 ## TECHNICAL SKILLS
