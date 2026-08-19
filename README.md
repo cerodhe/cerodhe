@@ -39,16 +39,16 @@ IT Infrastructure Lead & Systems Administrator focused on building, optimizing, 
 - Advised customers on technical sales and IT product acquisition.
 
 ### Non IT Jobs
-**Several** | *Baleares, Spain* | Jul 2015 – Sept 2021
+**Several** | *Baleares, Spain* | Jun 2016 – Jun 2021
+
+- **Education & Upskilling Break** (*Oct 2019 – Jun 2021*)
+  - Dedicated full-time period focused on technical education, self-study, and IT skill development prior to entering the IT industry.
 
 - **HOTEL PEYMAR SA — Hotel Receptionist** (*May 2019 – Oct 2019*)
-  - Managed guest experience, check-in/out workflows, and PMS software operations for high-volume international tourism during peak season.
-  - Drove upselling of hotel services and resolved guest complaints promptly to maintain high service standards.
+  - Managed guest experience, high-volume check-in/out workflows, and PMS software operations during peak tourism season.
 
 - **Rafa Nadal Sports Centre — Night Receptionist** (*Apr 2018 – Nov 2018*)
-  - Delivered high-touch VIP concierge service for elite athletes, public figures, and HNWI guests with strict confidentiality and discretion.
-  - Autonomously managed night-shift operations, facility security, access control, and critical incident resolution without direct supervision.
-  - Handled daily multilingual guest interactions (Spanish, English, German) and PMS night-audit procedures.
+  - Delivered high-touch VIP concierge service, night-audit procedures, facility security, and multilingual guest support.
 
 - **Media Markt — Tech & B2B Sales Specialist** (*Apr 2017 – Aug 2017*)
   - Managed consultative technical sales for both B2C retail consumers and B2B corporate clients, analyzing business requirements to deliver tailored hardware, networking, and software procurement solutions.
@@ -66,10 +66,12 @@ IT Infrastructure Lead & Systems Administrator focused on building, optimizing, 
 ## TECHNICAL SKILLS
 
 - **Networking & Security:** Sophos, Cisco Meraki, CrowdSec, Firewalls, Reverse Proxy, LAN-WAN, TCP/IP, VPN.
-- **Virtualization & Containers:** Docker, Portainer, Proxmox VE, VMware ESXi.
+- **Virtualization & Containers:** Docker, Portainer, Kubernetes, Proxmox VE, VMware ESXi.
+- **Cloud & DevOps:** AWS, Google Cloud, Terraform.
 - **Systems & Infrastructure:** Linux Server Administration, Windows Server, AS/400, Active Directory, System Installations.
+- **Databases:** PostgreSQL, SQL.
 - **ITOM & Monitoring:** GLPI, Jira ITSM, Uptime Kuma, Beszel, Duplicati, AOMEI, Pandora.
-- **Cloud & Workspace:** Google Workspace, Microsoft 365, Google Cloud, Google Drive.
+- **Workspace & Productivity:** Google Workspace, Microsoft 365, Google Drive.
 - **Languages:** Bilingual in Spanish and Catalan; Professional English.
 
 ---
@@ -78,5 +80,6 @@ IT Infrastructure Lead & Systems Administrator focused on building, optimizing, 
 
 - **Google Cloud Skill Badges:** Load Balancing & App Dev Environment (2024)
 - **Google IT Support Certificate:** Coursera (2022)
+- **SQL AND POSTGRESQL: The Complete Developer's Guide** Udemy (2026)
 - **Vocational Education:** Técnico Superior de Administración de Sistemas Informáticos en Red (EQF Level 5) - IES Manacor (2014)
-- **In Progress:** Cisco Certified Network Associate (CCNA), Kubernetes Udemy Course, Ansible
+- **In Progress:** Cisco Certified Network Associate (CCNA), Kubernetes Udemy Course
